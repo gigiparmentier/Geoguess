@@ -17,7 +17,7 @@
             },
             "author": "titanbin",
             "imageUrl": "https://unsplash.com/photos/UO02gAW3c0c/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjg2MjU0MDA2fA&force=true&w=640",
-            "url": "https://raw.githubusercontent.com/gigiparmentier/Geoguess/439f266921a355a41ed9f8e6eeb50947da372623/big_france_cities.geojson",
+            "url": "https://raw.githubusercontent.com/gigiparmentier/Geoguess/master/big_france_cities.geojson",
             "id": "big_french_cities"
       },
           {
